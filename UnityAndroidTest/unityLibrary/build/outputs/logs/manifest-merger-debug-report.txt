@@ -1,0 +1,98 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:6:1-37:12
+INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:6:1-37:12
+	package
+		INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:7:5-51
+	xmlns:android
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:6:11-69
+application
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:8:3-30:17
+	android:extractNativeLibs
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:8:16-48
+	android:isGame
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:8:49-70
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:9:5-25:16
+	android:screenOrientation
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:11:9-45
+	android:process
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:17:9-36
+	android:launchMode
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:12:9-40
+	android:hardwareAccelerated
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:15:9-44
+	android:exported
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:16:9-32
+	android:resizeableActivity
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:14:9-43
+	android:configChanges
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:13:9-190
+	android:theme
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:10:9-50
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:9:15-68
+meta-data#unity.splash-mode
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:26:5-69
+	android:value
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:26:49-66
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:26:16-48
+meta-data#unity.splash-enable
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:27:5-74
+	android:value
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:27:51-71
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:27:16-50
+meta-data#unity.launch-fullscreen
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:28:5-78
+	android:value
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:28:55-75
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:28:16-54
+meta-data#unity.allow-resizable-window
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:29:5-84
+	android:value
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:29:60-81
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:29:16-59
+uses-feature#0x00020000
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:31:3-52
+	android:glEsVersion
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:31:17-49
+uses-permission#android.permission.INTERNET
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:32:3-65
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:32:20-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:33:3-77
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:33:20-74
+uses-feature#android.hardware.touchscreen
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:34:3-88
+	android:required
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:34:61-85
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:34:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:35:3-99
+	android:required
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:35:72-96
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:35:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:36:3-108
+	android:required
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:36:81-105
+	android:name
+		ADDED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml:36:17-80
+uses-sdk
+INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml
+INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\GitFiles\IntegrationTest\UnityAndroidTest\unityLibrary\src\main\AndroidManifest.xml
